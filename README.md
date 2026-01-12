@@ -1,9 +1,9 @@
-### SuperVision AI — Real-time student engagement monitoring using Face Mesh & WebSockets with separate Student & Teacher dashboards.
+# SuperVision AI — Real-time student engagement monitoring using Face Mesh & WebSockets with separate Student & Teacher dashboards.
 
 ## Tagline -
 An AI-powered classroom supervision system that detects student engagement in real time and visualizes it live for instructors.
 
-### Overview
+## Overview
 
 SuperVision AI is a real-time AI-based classroom monitoring system designed to analyze student engagement using facial landmark detection and stream live insights to a teacher dashboard.
 
@@ -25,7 +25,7 @@ The system uses MediaPipe Face Mesh to detect facial expressions, FastAPI WebSoc
 
 ## Tech Stack
 
-# Frontend
+### Frontend
 
 React.js (Vite)
 
@@ -35,7 +35,7 @@ Chart.js
 
 WebSockets
 
-# Backend
+### Backend
 
 FastAPI
 
@@ -78,6 +78,6 @@ It was built as a personal learning project to explore real-time AI systems and 
 
 ## Author
 
-# Anchal Gupta
-# Aspiring Data Scientist | AI & Full-Stack Enthusiast
+### Anchal Gupta
+### Aspiring Data Scientist | AI & Full-Stack Enthusiast
 
