@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont;
+  background-color: #f5f7fb;
+  color: #1f2937;
+}
+
+button {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  padding: 8px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+button:hover {
+  background: #f3f4f6;
+}
